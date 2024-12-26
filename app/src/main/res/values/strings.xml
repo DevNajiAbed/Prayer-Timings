@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Prayer Timings</string>
+    <string name="failure">Failure</string>
+    <string name="you_have_to_allow_us_from_accessing_your_location_so_you_can_find_prayer_timings_in_your_city">You have to allow us from accessing your location so you can find prayer timings in your city.</string>
+    <string name="retry">Retry</string>
+    <string name="close">Close</string>
+    <string name="please_wait_it_might_take_a_few_minutes">Please wait, it might take a few minutes.</string>
+    <string name="you_have_to_enable_the_location_settings_in_your_device_so_we_can_get_prayer_timings_in_your_specific_location">You have to enable the location settings in your device so we can get prayer timings in your specific location.</string>
+    <string name="enable">Enable</string>
+    <string name="location_turned_off">Location turned off</string>
+    <string name="fajr">Fajr</string>
+    <string name="duhur">Duhur</string>
+    <string name="asr">Asr</string>
+    <string name="maghrib">Maghrib</string>
+    <string name="isha">Isha</string>
+    <string name="pm">" PM"</string>
+    <string name="am">" AM"</string>
+    <string name="prayer_time_has_been_come">"Prayer time has been come: "</string>
+    <string name="now_you_can_receive_notifications_whenever_a_prayer_time_comes">Now you can receive notifications whenever a prayer time comes.</string>
+    <string name="no_notifications">No notifications</string>
+    <string name="you_have_to_give_us_the_permission_for_sending_you_permissions_whenever_a_prayer_time_comes">You have to give us the permission for sending you permissions whenever a prayer time comes.</string>
+</resources>

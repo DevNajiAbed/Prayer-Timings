@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">مواقيت الصلاة</string>
+    <string name="failure">Failure</string>
+    <string name="you_have_to_allow_us_from_accessing_your_location_so_you_can_find_prayer_timings_in_your_city">عليك السماح لنا من الوصول لموقعك حتى تتمكن من معرفة مواقيت الصلاة في بلدك.</string>
+    <string name="retry">إعادة المحاولة</string>
+    <string name="close">إغلاق</string>
+    <string name="please_wait_it_might_take_a_few_minutes">يرجى الانتظار، قد تأخذ هذه العملية بضع دقائق.</string>
+    <string name="you_have_to_enable_the_location_settings_in_your_device_so_we_can_get_prayer_timings_in_your_specific_location">عليك تفعيل إعدادت الموقع في جهازك حتى تتمكن من معرفة مواقيت الصلاة في موقعك.</string>
+    <string name="enable">تفعيل</string>
+    <string name="location_turned_off">الموقع مغلق</string>
+    <string name="fajr">الفجر</string>
+    <string name="duhur">الظهر</string>
+    <string name="asr">العصر</string>
+    <string name="maghrib">المغرب</string>
+    <string name="isha">العشاء</string>
+    <string name="pm">" ص"</string>
+    <string name="am">" م"</string>
+</resources>
